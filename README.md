@@ -9,10 +9,24 @@
 <p align="center">🚀</p>
 <p align="center">Tenho um sólido conhecimento em React e estou constantemente aprimorando minhas habilidades, especialmente trabalhando em projetos empolgantes com Next.js. Let's code!.</p>&nbsp;
 
-<div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
-  <h1 align="center">Trainee de desenvolvimento - Adapti Soluções Web</h1>
-</div>
+## My Experience
+<br>
+<br>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.adapti.info/">
+        <img width="100px" src="https://github.com/Alberttavares/Alberttavares/blob/main/logoADAPTI.png" />
+      </a>
+    </td>
+    <td>
+      <h1 align="center">Trainee de desenvolvimento - Adapti Soluções Web</h1>
+    </td>
+  </tr>
+</table>
+<br>
+<p>🚀 Adapti Soluções Web é uma das principais empresas juniores de tecnologia do Espírito Santo! Como trainee de desenvolvimento, tenho a honra de fazer parte dessa equipe dinâmica e inovadora. Já estou imerso em diversos projetos emocionantes, onde cada desafio me proporciona oportunidades únicas de crescimento, tanto em habilidades técnicas quanto interpessoais. Estou empolgado para continuar explorando novas fronteiras e contribuir para o sucesso da nossa equipe! 💡💻</p>&nbsp;
+
 
  
  &nbsp;
