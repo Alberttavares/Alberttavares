@@ -2,19 +2,18 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Alberttavares/Alberttavares/blob/main/logoGitHub.png" />
 &nbsp;&nbsp;&nbsp;
 
+<p align="center">💡</p>
+<p align="center">Olá! Eu sou Albert, um entusiasta da tecnologia e apaixonado por resolver problemas complexos!</p>
+<p align="center">👨‍💻</p>
+<p align="center"> Com 20 anos de idade, sou estudante de Engenharia da Computação e desenvolvedor full stack. Adoro mergulhar em desafios técnicos e estou sempre buscando novas maneiras de utilizar a tecnologia para criar   soluções inovadoras.</p>
+<p align="center">🚀</p>
+<p align="center">Tenho um sólido conhecimento em React e estou constantemente aprimorando minhas habilidades, especialmente trabalhando em projetos empolgantes com Next.js. Let's code!.</p>&nbsp;
 
-<p align="center">💡 Olá! Eu sou Albert, um entusiasta da tecnologia e apaixonado por resolver problemas complexos!
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
+  <h1 align="center">Trainee de desenvolvimento - Adapti Soluções Web</h1>
+</div>
 
-👨‍💻 Com 20 anos de idade, sou estudante de Engenharia da Computação e desenvolvedor full stack. Adoro mergulhar em desafios técnicos e estou sempre buscando novas maneiras de utilizar a tecnologia para criar soluções inovadoras.
-
-🚀 Tenho um sólido conhecimento em React e estou constantemente aprimorando minhas habilidades, especialmente trabalhando em projetos empolgantes com Next.js. Let's code!.</p>&nbsp;
-
-
-<h1>
-  Trainee de desenvolvimento -
-      Adapti Soluções Web
-
-</h1>
  
  &nbsp;
  &nbsp;
