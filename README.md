@@ -25,7 +25,7 @@
   </tr>
 </table>
 <br>
-<p>🚀 Adapti Soluções Web é uma das principais empresas juniores de tecnologia do Espírito Santo! Como trainee de desenvolvimento, tenho a honra de fazer parte dessa equipe dinâmica e inovadora. Já estou imerso em diversos projetos emocionantes, onde cada desafio me proporciona oportunidades únicas de crescimento, tanto em habilidades técnicas quanto interpessoais. Estou empolgado para continuar explorando novas fronteiras e contribuir para o sucesso da nossa equipe! 💡💻</p>&nbsp;
+<p>🚀 Adapti Soluções Web é uma das principais empresas juniores de tecnologia do Espírito Santo! Como Gerente de Projetos, tenho a honra de fazer parte dessa equipe dinâmica e inovadora. Já estou imerso em diversos projetos emocionantes, onde cada desafio me proporciona oportunidades únicas de crescimento, tanto em habilidades técnicas quanto interpessoais. Estou empolgado para continuar explorando novas fronteiras e contribuir para o sucesso da nossa equipe! 💡💻</p>&nbsp;
 
 
  
