@@ -20,7 +20,7 @@
       </a>
     </td>
     <td>
-      <h1 align="center">Assessor de desenvolvimento - Adapti Soluções Web</h1>
+      <h1 align="center">Gerente de Projetos - Adapti Soluções Web</h1>
     </td>
   </tr>
 </table>
