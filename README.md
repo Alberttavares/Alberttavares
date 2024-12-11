@@ -11,21 +11,29 @@
 
 ## My Experience
 <br>
+<div align="center" style="padding: 40px; background: linear-gradient(135deg, #4a90e2, #1e3a8a); border-radius: 20px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5); color: white;">
+  <a href="https://www.adapti.info/" target="_blank" style="text-decoration: none;">
+    <img 
+      src="https://github.com/Alberttavares/Alberttavares/blob/main/logoADAPTI.png" 
+      alt="Logo ADAPTI" 
+      style="width: 150px; border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4); margin-bottom: 20px;"
+    />
+  </a>
+  <h1 style="font-size: 40px; margin: 10px 0; font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4), 0px 0px 10px #00d4ff;">
+    CTO - Diretor de Desenvolvimento
+  </h1>
+  <p style="margin-top: 30px;">
+    <a href="https://www.adapti.info/" target="_blank" style="background-color: #00d4ff; color: #1e3a8a; text-decoration: none; font-size: 18px; padding: 12px 30px; border-radius: 30px; font-weight: bold; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: transform 0.2s, box-shadow 0.2s;">
+      Visite nosso site
+    </a>
+  </p>
+</div>
+
 <br>
-<table>
-  <tr>
-    <td>
-      <a href="https://www.adapti.info/">
-        <img width="100px" src="https://github.com/Alberttavares/Alberttavares/blob/main/logoADAPTI.png" />
-      </a>
-    </td>
-    <td>
-      <h1 align="center">Gerente de Projetos - Adapti Soluções Web</h1>
-    </td>
-  </tr>
-</table>
-<br>
-<p>🚀 Adapti Soluções Web é uma das principais empresas juniores de tecnologia do Espírito Santo! Como Gerente de Projetos, tenho a honra de fazer parte dessa equipe dinâmica e inovadora. Já estou imerso em diversos projetos emocionantes, onde cada desafio me proporciona oportunidades únicas de crescimento, tanto em habilidades técnicas quanto interpessoais. Estou empolgado para continuar explorando novas fronteiras e contribuir para o sucesso da nossa equipe! 💡💻</p>&nbsp;
+<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.6;">
+  🚀 Adapti Soluções Web é uma das principais empresas juniores de tecnologia do Espírito Santo! Como Diretor de Desenvolvimento e membro da Diretoria Executiva, tenho a honra de liderar e colaborar com uma equipe talentosa e inovadora. Atualmente, estou à frente de projetos de tecnologia, onde não só aplico minhas habilidades técnicas, mas também aprimoro minhas habilidades de liderança e gestão. Estou entusiasmado com as oportunidades de crescimento e com a chance de contribuir para o sucesso contínuo da nossa equipe e da nossa missão! 💡💻
+</p>
+
 
 
  
