@@ -9,38 +9,6 @@
 <p align="center">🚀</p>
 <p align="center">Tenho um sólido conhecimento em React e estou constantemente aprimorando minhas habilidades, especialmente trabalhando em projetos empolgantes com Next.js. Let's code!.</p>&nbsp;
 
-## My Experience
-<br>
-<div align="center" style="padding: 40px; background: linear-gradient(135deg, #4a90e2, #1e3a8a); border-radius: 20px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5); color: white;">
-  <a href="https://www.adapti.info/" target="_blank" style="text-decoration: none;">
-    <img 
-      src="https://github.com/Alberttavares/Alberttavares/blob/main/logoADAPTI.png" 
-      alt="Logo ADAPTI" 
-      style="width: 150px; border-radius: 50%; border: 4px solid #ffffff; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4); margin-bottom: 20px;"
-    />
-  </a>
-  <h1 style="font-size: 40px; margin: 10px 0; font-family: 'Segoe UI', Arial, sans-serif; font-weight: bold; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4), 0px 0px 10px #00d4ff;">
-    CTO - Diretor de Desenvolvimento
-  </h1>
-  <p style="margin-top: 30px;">
-    <a href="https://www.adapti.info/" target="_blank" style="background-color: #00d4ff; color: #1e3a8a; text-decoration: none; font-size: 18px; padding: 12px 30px; border-radius: 30px; font-weight: bold; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); transition: transform 0.2s, box-shadow 0.2s;">
-      Visite nosso site
-    </a>
-  </p>
-</div>
-
-<br>
-<p align="center" style="font-size: 18px; font-family: 'Arial', sans-serif; line-height: 1.6;">
-  🚀 Adapti Soluções Web é uma das principais empresas juniores de tecnologia do Espírito Santo! Como Diretor de Desenvolvimento e membro da Diretoria Executiva, tenho a honra de liderar e colaborar com uma equipe talentosa e inovadora. Atualmente, estou à frente de projetos de tecnologia, onde não só aplico minhas habilidades técnicas, mas também aprimoro minhas habilidades de liderança e gestão. Estou entusiasmado com as oportunidades de crescimento e com a chance de contribuir para o sucesso contínuo da nossa equipe e da nossa missão! 💡💻
-</p>
-
-
-
- 
- &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
@@ -53,27 +21,36 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Dataform](https://img.shields.io/badge/Dataform-FF6F00?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Cloud Composer](https://img.shields.io/badge/Cloud_Composer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
 
 #### Databases:
 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)&nbsp;
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/VSCODE%20-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)&nbsp;
