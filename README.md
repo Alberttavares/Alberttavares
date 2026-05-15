@@ -60,7 +60,6 @@
 &nbsp;
 &nbsp;
 
-<a href="https://github.com/Alberttavares"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberttavares&hide=html&layout=compact&theme=onedark" alt="Card Star" align="center" width="400px" min-width="300px"></a>
 
 
 ## Contacts:
