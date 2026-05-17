@@ -2,12 +2,9 @@
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Alberttavares/Alberttavares/blob/main/logoGitHub.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">💡</p>
-<p align="center">Olá! Eu sou Albert, um entusiasta da tecnologia e apaixonado por resolver problemas complexos!</p>
-<p align="center">👨‍💻</p>
-<p align="center"> Com 20 anos de idade, sou estudante de Engenharia da Computação e desenvolvedor full stack. Adoro mergulhar em desafios técnicos e estou sempre buscando novas maneiras de utilizar a tecnologia para criar   soluções inovadoras.</p>
-<p align="center">🚀</p>
-<p align="center">Tenho um sólido conhecimento em React e estou constantemente aprimorando minhas habilidades, especialmente trabalhando em projetos empolgantes com Next.js. Let's code!.</p>&nbsp;
+<p align="center">
+Olá! Sou Albert, estudante de Engenharia da Computação e desenvolvedor full stack, com conhecimento em desenvolvimento de software e engenharia de dados. Atuo na construção de aplicações web com React, Next.js, JavaScript, TypeScript, PHP e Laravel, além de trabalhar com APIs REST, SQL e MySQL, modelagem de dados, integração de sistemas e criação de pipelines de dados. Tenho familiaridade com práticas de análise de dados e construção de soluções orientadas a dados, buscando sempre aplicar boas práticas de engenharia, escalabilidade e organização de sistemas. Gosto de resolver problemas complexos e transformar ideias em soluções eficientes através da tecnologia.
+</p>
 
 
 ## My Skills
