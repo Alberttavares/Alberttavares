@@ -1,8 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/Alberttavares/Alberttavares/blob/main/logoGitHub.png" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">
+<p>
 Olá! Sou Albert, estudante de Engenharia da Computação e desenvolvedor full stack, com conhecimento em desenvolvimento de software e engenharia de dados. Atuo na construção de aplicações web com React, Next.js, JavaScript, TypeScript, PHP e Laravel, além de trabalhar com APIs REST, SQL e MySQL, modelagem de dados, integração de sistemas e criação de pipelines de dados. Tenho familiaridade com práticas de análise de dados e construção de soluções orientadas a dados, buscando sempre aplicar boas práticas de engenharia, escalabilidade e organização de sistemas. Gosto de resolver problemas complexos e transformar ideias em soluções eficientes através da tecnologia.
 </p>
 
